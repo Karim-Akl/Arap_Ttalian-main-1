@@ -1999,7 +1999,6 @@ header .container .navbar .icon i:hover{
       }
       form .message textarea{
         resize: none;
-        
       }
       form .button-area{
         margin-top: 20px;
@@ -2032,5 +2031,5 @@ header .container .navbar .icon i:hover{
     }
 
     .container .col h1 ,  .container .col h3{
-      color: black !important;
+      /* color: black !important;/ */
     }
